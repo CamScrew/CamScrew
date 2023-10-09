@@ -2,7 +2,7 @@
 <h1 align="center" color="red"'>Hi 👋, I'm Van Nam</h1>
 <h3 align="left">A passionate frontend developer from VietNam</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=camscrew&label=Profile%20views&color=0e75b6&style=flat" alt="camscrew" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=camscrew&label=Profile%20views&color=0e75b6&style=flat" alt="camscrew" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=camscrew" alt="camscrew" /></a> </p>
 
